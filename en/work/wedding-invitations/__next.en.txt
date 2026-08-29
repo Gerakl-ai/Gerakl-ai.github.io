@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[2196,["1723","static/chunks/app/en/layout-52735ece45c2407f.js"],"DocumentLanguage"]
+3:I[7121,[],""]
+4:I[4581,[],""]
+0:{"rsc":["$","$1","c",{"children":[null,[["$","$L2",null,{"lang":"en"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ou7Mk-FZcl9KtbOHOMWMt"}

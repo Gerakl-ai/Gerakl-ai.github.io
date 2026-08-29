@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /preview/
+Disallow: /for/
+
+Host: https://germanpolkin.ru
+Sitemap: https://germanpolkin.ru/sitemap.xml

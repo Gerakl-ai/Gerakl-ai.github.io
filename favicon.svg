@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 24 24" role="img" aria-label="Signal Aperture">
+  <rect x="0" y="0" width="24" height="24" rx="5.6" fill="#05070C"/>
+  <g fill="none" stroke="#68DDEB" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="8.65"/>
+    <path d="m14.31 8 4.96 8.59M9.69 8h9.92M7.38 12l4.96-8.59M9.69 16 4.73 7.41M14.31 16H4.39M16.62 12l-4.96 8.59"/>
+  </g>
+  <circle cx="18.4" cy="5.6" r=".7" fill="#FF675C"/>
+</svg>

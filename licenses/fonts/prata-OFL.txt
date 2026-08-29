@@ -1,0 +1,5 @@
+Copyright 2011 The Prata Project Authors (https://github.com/cyrealtype/Prata)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The complete unmodified license text is distributed in this release at:
+/licenses/fonts/OFL-1.1.txt

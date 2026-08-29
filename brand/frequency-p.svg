@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" role="img" aria-labelledby="title desc">
+  <title id="title">German Polkin Frequency P mark</title>
+  <desc id="desc">A single signal stroke resolves into a Latin P with a restrained red ON AIR point.</desc>
+  <metadata>
+    Archival V2.3 procedural source. Canonical sequence: waveform to code to trajectory to stage light to P.
+    No external assets. Designed for the 85.92 second terminal hold in Master Brand Trailer V4.
+  </metadata>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
+    <path id="frequency-p" d="M72 246V34H136C186 34 210 58 210 92C210 126 186 150 136 150H72"
+      stroke="#F6F1E8" stroke-width="18"/>
+  </g>
+  <circle id="on-air" cx="165" cy="92" r="6" fill="#FF3B30"/>
+</svg>
