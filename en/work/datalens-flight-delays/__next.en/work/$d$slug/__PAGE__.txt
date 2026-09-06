@@ -2,5 +2,5 @@
 2:I[14873,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js","/_next/static/chunks/1b73cgtr2nv_4.js","/_next/static/chunks/0h_thi0hbbu0a.js"],"WorkCaseV172"]
 3:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","slug":"datalens-flight-delays","previewBase":"/en","edition":"v178"}],[["$","script","script-0",{"src":"/_next/static/chunks/0h_thi0hbbu0a.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UgsveXGqSmAgtYMdRQSzE"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","slug":"datalens-flight-delays","previewBase":"/en","edition":"v178"}],[["$","script","script-0",{"src":"/_next/static/chunks/0h_thi0hbbu0a.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RwBLkN7lh68jmTzjAoA7y"}
 5:null
