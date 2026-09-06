@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","345","static/chunks/app/not-found-8447a5d022f74ca2.js"],""]
-3:I[484,[],"OutletBoundary"]
+2:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js","/_next/static/chunks/1rxncug86bump.js"],""]
+3:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","span",null,{"children":"404 · СИГНАЛ ПОТЕРЯН"}],["$","h1",null,{"children":"Эта частота пока молчит."}],["$","$L2",null,{"className":"button button--light","href":"/","children":"Вернуться на главную"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Mv36UHPQQvwqJYLgPpUc5"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","span",null,{"children":"404 · СИГНАЛ ПОТЕРЯН"}],["$","h1",null,{"children":"Эта частота пока молчит."}],["$","$L2",null,{"className":"button button--light","href":"/","children":"Вернуться на главную"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"r5FqXQcGKeBmFwFQ9-EFK"}
 5:null
