@@ -4,4 +4,4 @@
 :HL["/fonts/manrope.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/geologica-cyrillic-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/geologica-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"en","param":null,"prefetchHints":0,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ne-lomaysya","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"6rTrgaOL3LtkAf6WBHq5f"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"en","param":null,"prefetchHints":0,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ne-lomaysya","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"ZjqLUvpl4U1X4iD3crv5J"}
