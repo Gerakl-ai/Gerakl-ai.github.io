@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[4297,["816","static/chunks/816-4ae261a3b7eba1aa.js","774","static/chunks/app/work/%5Bslug%5D/page-8a64f5beeda76188.js"],"WorkCaseV172"]
+2:I[4297,["816","static/chunks/816-2a9febd54090e814.js","774","static/chunks/app/work/%5Bslug%5D/page-8a64f5beeda76188.js"],"WorkCaseV172"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"ru","slug":"datalens-flight-delays","previewBase":"","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eKQQFxi-FFWmltF3vIQ5I"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"ru","slug":"datalens-flight-delays","previewBase":"","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eM35YFuPcO1T55xRwsxkC"}
 5:null
