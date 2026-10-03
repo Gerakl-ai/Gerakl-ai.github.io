@@ -108,4 +108,16 @@
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://germanpolkin.ru/work/ne-lomaysya</loc>
+<lastmod>2026-08-27T21:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://germanpolkin.ru/en/work/ne-lomaysya</loc>
+<lastmod>2026-08-27T21:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
