@@ -2,5 +2,5 @@
 2:I[4297,["816","static/chunks/816-cd76ef27c58b94be.js","436","static/chunks/app/en/work/%5Bslug%5D/page-e66b4bb81e13d3ec.js"],"WorkCaseV172"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","slug":"wedding-invitations","previewBase":"/en","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"992eNQorl3bUP-yV7aHZx"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","slug":"wedding-invitations","previewBase":"/en","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UDD8d4IOgD0fqOPB67vb6"}
 5:null
