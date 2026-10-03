@@ -2,5 +2,5 @@
 2:I[815,["500","static/chunks/500-c99b8dfd3de17c86.js","115","static/chunks/app/en/radio/page-0b72d451c883821a.js"],"RadioProfile"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vMwB-bngsMEuLFGfPTzi_"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"locale":"en","edition":"v178"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VI3F5AybSVcogMA_87Sb7"}
 5:null
