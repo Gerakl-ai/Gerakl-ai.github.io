@@ -3,7 +3,8 @@
 :HL["/_next/static/css/99cc31ab411727be.css","style"]
 :HL["/_next/static/css/441f147ed6d37463.css","style"]
 :HL["/_next/static/css/7cc3c21e96cab491.css","style"]
+:HL["/_next/static/css/101cf3189f0d9a22.css","style"]
 :HL["/fonts/manrope.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/geologica-cyrillic-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/geologica-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"wedding-invitations","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eM35YFuPcO1T55xRwsxkC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"wedding-invitations","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EXcliof6I5n07WJBfPj4K"}
